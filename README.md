@@ -1,7 +1,7 @@
 # 16-11_IfElse_Operatoren
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 für den 16.11.2020
 
-#Willkommen bei der zweiten Übungsaufgabe.
+# Willkommen bei der zweiten Übungsaufgabe.
 
 Diese Woche habe ich eine Vorlage hochgeladen. Ladet euch also bitte den Code herunter und bearbeitet die Aufgabe damit.
 Ihr habt in der letzten Seminarstunde das Casting und Operatoren kennengelernt. Die folgende Aufgabe soll euch sowohl den Umgang damit beibringen, als euch auch die sogenannten If-Else Blöcke näherbringen.
@@ -20,7 +20,7 @@ Anhand der nun errechneten Prozent sollte ihr jetzt eine Ausgabe generieren, die
 | 5 (mangelhaft)   | 49-35   |
 | 6 (ungenügend)   | 34-0    |
 
-Um diese Ausgabe zu generieren müssen wir überprüfen, ob in welchem Bereich des Notenspiegels der Wert der Variable *erreichteProzente* fällt. Dazu brauchen wir:
+Um diese Ausgabe zu generieren müssen wir überprüfen, in welchem Bereich des Notenspiegels der Wert der Variable *erreichteProzente* fällt. Dazu brauchen wir:
 
 ## If-Else
 Aus dem [Wegweiser](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Konditionale.md):
