@@ -13,7 +13,6 @@ public class Notenrechner {
 		if () {
 			System.out.println("Nicht bestanden! 6");
 		} else if () {
-			System.out.println("Nicht bestanden! 5");
 		}
 		//.... und so weiter
 	}
