@@ -43,7 +43,7 @@ if (i > 5){
 Es wird hier generell immer **nur einer** der Blöcke ausgeführt! Wenn im `if`-Block die Bedingung erfüllt ist, dann werden die folgenden Blöcke ignoriert. Wenn nicht, dann werden nacheinander die (optionalen) `else if`-Blöcke überprüft und ggf. einer davon ausgeführt. Falls keine der angegebenen Bedingungen zutraf, wird der (ebenfalls optionale) `else`-Block ausgeführt.
 
 ## Tipps
-- Falls die If-Else Geschichte noch nicht klar ist, guckt bitte in die Ressource. Da gibt es noch weitere Erklärungen der Thematik
+- Falls die If-Else Geschichte noch nicht klar ist, guckt bitte in die Ressourcen. Da gibt es noch weitere Erklärungen der Thematik
 - Denkt beim Berechnen der erreichten Prozente an die Datentypen
 - Benutzt die Operatoren in den Bedingungen und vergesst nicht, dass es *&&* oder *||* gibt
 - Kontrolliert euer Programm indem ihr auch mal die Ausgangsvariablen ändert und schaut ob alles so funktioniert wie es sollte
