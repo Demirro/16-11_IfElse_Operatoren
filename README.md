@@ -69,11 +69,16 @@ Java geht bei der Eingabe von Kommazahlen wie *0.5* standardmäßig davon aus, d
 Das ist im ersten Moment nicht ganz intuitiv, da der Datentyp Double 8 Bytes belegt, wohingegen der Datentyp float (auch für Kommazahlen genutz) nur 4 Bytes belegt. Nach aller bisher bekannten Logik sollte man also meinen, dass ein Datentyp der weniger Arbeitsspeicher belegt sinnvoller als Standard ist.
 
 Jetzt die Krux:
-Float und Double werden als binäre Gleitkommazahlen gespeichert. Ich will jetzt nicht zu viel ausschweifen aber erinnert euch an BIT und an die Geschichte mit den Mantissen und co. Nun in diesem System kommt das Problem auf, dass die Repräsentation einer Kommazahl aus dem Dezimalsystem in binärer Form sehr ungenau ist. Beispiel:
+Float und Double werden als binäre Gleitkommazahlen gespeichert. Ich will jetzt nicht zu viel ausschweifen aber erinnert euch an BIT und an die Geschichte mit den Mantissen und co. Nun in diesem System kommt das Problem auf, dass die Repräsentation einer Kommazahl aus dem Dezimalsystem in binärer Form sehr ungenau ist. 
+
+Beispiel:
+
 0.5 wäre in binär 0.1
+
 0.6 wäre in binäre 0.10011001100110011001100110011001100110011001100110011001100110... und so weiter. Also es wiederholt sich periodisch.
 
 Als float würde 0.6 also wie folgt aussehen: 0.100110
+
 Als double würde 0.6 wie folgt aussehen:     0.10011001100110
 
 Also ist double viel präziser und das ist oft sehr wichtig, wichtiger als Arbeitsspeicher. Zusätzlich braucht man scheinbar nicht mehr Rechenleistung wenn man mit double statt float arbeitet.
