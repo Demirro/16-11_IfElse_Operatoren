@@ -57,7 +57,7 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 - [📃 Primitive Datentypen (Wegweiser)](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Datentypen.md)
 - [📃 If-Else (Conditionals) (Wegweiser)](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Konditionale.md)
 - [📃 If-Else (extern)](https://www.java-programmieren.com/if-anweisung-java.php)
-- [📃 Operatoren) (Wegweiser)](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Operatoren.md)
+- [📃 Operatoren (Wegweiser)](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Operatoren.md)
 - [📃 Casting (Wegweiser)](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Casting.md)
 
 - [📃 Java Naming Conventions](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Naming-Conventions.md)
