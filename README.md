@@ -64,6 +64,7 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 ### P.S. Wieso double statt float?
 **an diejenigen aus dem letzten Zoom-Meeting und an die, die es interessiert**
+
 Java geht bei der Eingabe von Kommazahlen wie *0.5* standardmäßig davon aus, dass es sich um den Datentypen Double handelt.
 Das ist im ersten Moment nicht ganz intuitiv, da der Datentyp Double 8 Bytes belegt, wohingegen der Datentyp float (auch für Kommazahlen genutz) nur 4 Bytes belegt. Nach aller bisher bekannten Logik sollte man also meinen, dass ein Datentyp der weniger Arbeitsspeicher belegt sinnvoller als Standard ist.
 
